@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GitHub User Search</string>
+    <string name="search">Masukan username</string>
+    <string name="search_hint">Masukan username</string>
+    <string name="username">Username</string>
+    <string name="name">Nama</string>
+    <string name="followers">%d followers</string>
+    <string name="following">%d Following</string>
+    <string name="Followers">Followers</string>
+    <string name="Following">Following</string>
+    <string name="Repo">Repository</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="repository">%d Repository</string>
+    <string name="noData">Tidak ada data</string>
+    <string name="copyright">Created by Bayu Nindioko</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">Settings</string>
+    <string name="switch_theme">Switch Theme to Dark Mode</string>
+
+
+</resources>
